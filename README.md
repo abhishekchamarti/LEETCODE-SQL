@@ -1,1 +1,1 @@
-# LEETCODE-SQL
+# LeetCode-SQL
